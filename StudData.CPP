@@ -1,5 +1,4 @@
-//Program 10
-//Binary File : Student Details2
+//Binary File : Student Details
 #include<stdio.h>
 #include<conio.h>
 #include<stdlib.h>
